@@ -14,7 +14,24 @@
 ### In case the error "remote origin already exists
 ## 6. run --> git remote add origin [link of your repo]
 ## 7. run --> git push -m -f origin HEAD:master
+### run --> git push origin HEAD:master
+### run --> git push origin HEAD:main
 ## 8. run --> git pull origin main
+
+
+# If nothing works ->
+### run --> git init
+### run --> git add .
+### run --> git commmit -m "something here"
+### run --> git remote add origin [link of your repo]
+### run --> git push origin HEAD:master
+### run --> git push origin HEAD:main
+
+
+
+
+
+
 
 
 
