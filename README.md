@@ -13,8 +13,8 @@
 ## 5. run --> git remote remove origin
 ### In case the error "remote origin already exists
 ## 6. run --> git remote add origin [link of your repo]
-## 7. run --> git push -m -f origin master
-## 8. run --> git pull
+## 7. run --> git push -m -f origin HEAD:master
+## 8. run --> git pull origin main
 
 
 
