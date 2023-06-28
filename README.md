@@ -28,6 +28,15 @@
 ### run --> git push origin HEAD:main
 
 
+# Adding new file
+
+## run --> echo " " > [File name]
+## run --> git add [file name] or git add --all
+## run --> git commit -m "something here"
+## run --> git push origin HEAD:master
+## run --> git pull origin master
+
+
 
 
 
