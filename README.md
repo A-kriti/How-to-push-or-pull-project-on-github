@@ -36,6 +36,9 @@
 ## run --> git push origin HEAD:master
 ## run --> git pull origin master
 
+# Common error main/master doesn't exist
+## run --> git push origin HEAD:master [instead of] git push origin master
+## run --> git push origin HEAD:main [instead of] git push origin main
 
 
 
